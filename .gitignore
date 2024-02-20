@@ -1,7 +1,15 @@
-crop_apps_env/
+wind_env/
 __pycache__
 api_key.txt
 disease_identification/__pycache__
 flower_classification/__pycache__
 nutrient_deficiency_detection/__pycache__
-species_recognition/__pycache__
+species_recognition/__pycache_
+species_recognition/assets/data/plantnet_300K
+species_recognition/assets/data/plantnet_300K.zip
+species_recognition/assets/runs
+presentation_media
+disease_identification/assets/data
+disease_identification/assets/run
+nutrient_deficiency_detection/assets/data
+nutrient_deficiency_detection/assets/runs
