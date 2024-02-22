@@ -10,6 +10,6 @@ species_recognition/assets/data/plantnet_300K.zip
 species_recognition/assets/runs
 presentation_media
 disease_identification/assets/data
-disease_identification/assets/run
+disease_identification/assets/runs
 nutrient_deficiency_detection/assets/data
 nutrient_deficiency_detection/assets/runs
