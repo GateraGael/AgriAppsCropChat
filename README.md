@@ -13,7 +13,7 @@
 An AI powered chatbot that runs computer vision models in inference on crop related diagnosis. It was created using customtkinter as the frontend user interface and currently  has four crop diagnosis applications: crop diseases, rice nutrient deficiencies, plant species, and flower species.
 This AI chatbot can diagnose all four aforementioned problems only from images. The software architecture flowchart of the application is shown below.
 
-![AgriAppsCropChat Architecture](/gitmedia/AACC_SoftwareArch.png)
+![AgriAppsCropChat Architecture](./gitmedia/AACC_SoftwareArch.png)
 
 
 * Create virtual environment
@@ -75,4 +75,4 @@ Trained Model: VGG16.
 
 # ChatBot Demo <a name="Demo"></a>
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="./gitmedia/app1_demo.gif" height="600" /></a
+<a href="URL_REDIRECT" target="blank"><img align="center" src="./gitmedia/app1_demo.gif" height="600" /></a>
