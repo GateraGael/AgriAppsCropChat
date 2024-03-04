@@ -46,9 +46,10 @@ def inference(image, model_path):
 
 def detect(image):
     image = cv2.imread(image)
-    inferencedImage, classesInDataset, classesInImage = inference(image, './disease_identification/assets/best.pt')
+    inferencedImage, classesInDataset, classesInImage = inference(image, './disease_identification/assets/yolov8n.pt')
 
     imageClassesList = list(set(classesInImage))
+    
     label = ""
 
     for x in range(len(imageClassesList)):

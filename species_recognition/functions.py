@@ -9,9 +9,6 @@ from ultralytics import YOLO
 from embedchain import App
 from .scripts.url import get_relevant_url
 
-from langchain.chat_models import ChatOpenAI
-from langchain.chains import ConversationChain 
-
 
 # Function to read API key from file
 def read_api_key(filepath):
